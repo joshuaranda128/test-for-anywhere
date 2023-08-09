@@ -1,0 +1,1 @@
+enum Flavor { simpsons, wire }
